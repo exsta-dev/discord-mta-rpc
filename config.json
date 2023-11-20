@@ -1,30 +1,30 @@
 {
 
-    "Application_ID" : "1174616434031206420",
+    "Application_ID" : "APPLICATION_IP",
 
     "MTA": {
 
-        "SERVER_IP": "185.160.30.13",
-        "SERVER_PORT": "22003",
-        "SERVER_USERNAME": "Exsta"
+        "SERVER_IP": "MTA_SERVER_IP",
+        "SERVER_PORT": "MTA_SERVER_PORT",
+        "SERVER_USERNAME": "MTA_USERNAME"
 
     },
 
     "Images": {
 
-        "Large_Image_URL" : "https://mir-s3-cdn-cf.behance.net/project_modules/disp/f5a942142150353.6261507ba2f40.png",
-        "Large_Image_Text" : "Türkiyem Savaşcı Gaming",
-        "Small_Image_URL" : "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b16c57142150353.6261507ba2616.png",
-        "Small_Image_Text" : "TSG"
+        "Large_Image_URL" : "LARGE_IMAGE_URL",
+        "Large_Image_Text" : "LARGE_IMAGE_TEXT",
+        "Small_Image_URL" : "SMALL_IMAGE_URL",
+        "Small_Image_Text" : "SMALL_IMAGE_TEXT"
 
     },
 
     "Buttons": {
 
-        "Button1" : "Discord Sunucusu",
-        "Button1_URL": "",
-        "Button2" : "Türkiyem Savaşçı Gaming",
-        "Button2_URL": ""
+        "Button1" : "BUTTON1_TEXT",
+        "Button1_URL": "BUTTON1_URL",
+        "Button2" : "BUTTON2_TEXT",
+        "Button2_URL": "BUTTON2_URL"
 
     }
 
