@@ -4,3 +4,4 @@
 # Kurulum
 1. İlk önce [install.bat](https://github.com/exsta7x/discord-mta-rpc/blob/main/install.bat) dosyasını başlatın ve modüllerin kurulmasını bekleyin.
 2. Modüller kurulduktan sonra [config.json](https://github.com/exsta7x/discord-mta-rpc/blob/main/config.json) dosyasında gerekli yerleri doldurun.
+3. Tüm işlemler bittikten sonra [run.bat](https://github.com/exsta7x/discord-mta-rpc/blob/main/run.bat) dosyasını çalıştırın ve aktiviteniz hazır.
